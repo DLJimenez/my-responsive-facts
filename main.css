@@ -12,8 +12,9 @@ p {
 
 div {
 	font-family: cursive;
-	font-size: 14px;
+	font-size: 15px;
 	display: none;
+	color: #213579;
 }
 
 h2 {
