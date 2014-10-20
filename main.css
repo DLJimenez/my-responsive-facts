@@ -3,7 +3,11 @@ body {
 }
 
 p {
-	text-align: center; 
+	text-align: center;
+	font-family: 'Inder';
+	color: #213579;
+	font-weight: bold;
+ 
 }
 
 div {
@@ -12,6 +16,16 @@ div {
 	display: none;
 }
 
+h2 {
+	text-align: center;
+	font-family: 'Lobster';
+	text-shadow: 2px 2px #00ffff;
+	color: #213579;
+}
+
+.image {
+	padding-left: 4px;
+}
 
 
 
